@@ -1,0 +1,6 @@
+qiskit
+numpy
+matplotlib
+juptyerlab
+pylatexenc
+qiskit-aer
