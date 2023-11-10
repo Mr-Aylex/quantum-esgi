@@ -6,3 +6,4 @@ pylatexenc
 qiskit-aer
 qiskit-ibm-runtime
 qiskit[visualization]
+pandas
