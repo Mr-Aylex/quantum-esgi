@@ -1,6 +1,6 @@
 qiskit
 numpy
 matplotlib
-juptyerlab
+jupyter
 pylatexenc
 qiskit-aer
